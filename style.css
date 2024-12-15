@@ -11,7 +11,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(neon\ \(1\).jpg);
+  background: rgb(6,2,3);
+  background: linear-gradient(90deg, rgba(6,2,3,1) 0%, rgba(31,2,24,1) 16%, rgba(106,1,86,1) 64%);
   background-size: cover;
   /*background: #eef1f6;*/
   /* overflow: hidden; */
